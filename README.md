@@ -150,7 +150,7 @@ def visualize_denoising(model, loader, num_images=10):
     noisy_images = noisy_images.cpu().numpy()
     outputs = outputs.cpu().numpy()
 
-    print("Name:T Mukesh B")
+    print("Name: Mukesh B")
     print("Register Number:212223230128")
     plt.figure(figsize=(18, 6))
     for i in range(num_images):
@@ -198,4 +198,4 @@ visualize_denoising(model, test_loader)
 
 
 ## RESULT
-Include your result here
+Therefore, To develop a convolutional autoencoder for image denoising application executed successfully.
